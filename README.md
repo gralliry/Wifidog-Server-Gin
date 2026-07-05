@@ -1,4 +1,4 @@
-# Wifidog-Server-Gin
+# Wifidog-AuthServer
 
 ## 描述
 
